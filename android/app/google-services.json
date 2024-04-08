@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594863575424",
+    "project_id": "postai-3fd3c",
+    "storage_bucket": "postai-3fd3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594863575424:android:6e32b0782b987b68def165",
+        "android_client_info": {
+          "package_name": "com.example.postai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-m7s50oWOxWAoI4FxxyOAUzaHmOy50FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
