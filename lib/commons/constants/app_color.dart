@@ -93,7 +93,7 @@ class AppColor {
 
 }
 ButtonStyle primaryBtn = ElevatedButton.styleFrom(
-  primary: AppColor.primarygreen,
+  backgroundColor: AppColor.primarygreen,
   padding: EdgeInsets.only(top: 13, bottom: 13),
   shape: RoundedRectangleBorder(
     borderRadius: BorderRadius.circular(5.0)
